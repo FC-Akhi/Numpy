@@ -36,7 +36,6 @@ pip install numpy
 │   ├── .gitignore
 ├── numpy                 <- This is the branch where all the necessary documents on Numpy is present for Data Science
 │   ├── 1. Code           <- where code file is present
-|   ├── data
 |   │   ├── personal_assets     
 |   │   ├── sample_csv        <- Intermediate data that has been transformed.
 |   │   ├── sample_csv        <- Sample csv dataset
